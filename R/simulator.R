@@ -17,13 +17,12 @@
 #' Use the simulate_bulk() function to generate multiple pseudo-bulk samples, which will be returned as a SummarizedExperiment. You can
 #' adapt the cell type fractions in each sample by changing the scenario parameter.
 #'
-#' @section Visulaization:
+#' @section Visualization:
 #' Inspect the cell type composition of your simulations with the plot_simulation() function.
 #'
+#' @name SimBu-pkg
 #' @docType package
-#' @name SimBu
-NULL
-#> NULL
+"_PACKAGE"
 
 #' simulate single pseudo-bulk sample
 #'
